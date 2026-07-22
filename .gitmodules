@@ -1,0 +1,15 @@
+[submodule "Implementations/GAT"]
+	path = Implementations/GAT
+	url = https://github.com/PetarV-/GAT.git
+
+[submodule "Implementations/GraphSAGE"]
+	path = Implementations/GraphSAGE
+	url = https://github.com/williamleif/GraphSAGE.git
+
+[submodule "Implementations/gcn"]
+	path = Implementations/gcn
+	url = https://github.com/tkipf/gcn.git
+
+[submodule "Implementations/powerful-gnns"]
+	path = Implementations/powerful-gnns
+	url = https://github.com/weihua916/powerful-gnns.git
